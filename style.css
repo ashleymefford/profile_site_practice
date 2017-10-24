@@ -1,0 +1,62 @@
+.center_heading {
+			text-align: center;
+		}
+
+		.button {
+			color: white;
+			padding:15px;
+			border-radius:12px;
+			border: 2px;
+			background-color: #9999ff;
+			text-decoration: none;
+		}
+
+		.paragraph_margin {
+			margin: 30px;
+		}
+
+		.photo{
+			float:left;
+			padding-right: 30px;
+			padding-left: 15px;
+		}
+
+		.icons{
+			font-size: 50px;
+			text-align: center;
+
+		}
+
+		.facebook {
+			color:#3B5998;
+		}
+
+		.linkedin {
+			color: #0077B5;
+		}
+
+		.instagram {
+			color: #8a3ab9;
+		}
+
+		.fa-bars {
+			padding-right: 5px
+		}
+
+		.container {
+			display:flex;
+			justify-content: space-around;
+		}
+
+		.work {
+			flex:1;
+		}
+
+		.education {
+			flex:1;
+		}
+
+		.workeducation {
+			text-align: center;
+			text-decoration: underline; 
+		}
